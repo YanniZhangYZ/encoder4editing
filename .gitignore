@@ -111,7 +111,7 @@ env.bak/
 venv.bak/
 
 # Models
-pretrained_models/
+criteria/pretrained_models/
 # Spyder project settings
 .spyderproject
 .spyproject
